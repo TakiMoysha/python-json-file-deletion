@@ -5,3 +5,4 @@ dist/**
 **/runner.build/
 **/runner.dist/
 **/runner.onefile-build/
+**.log
