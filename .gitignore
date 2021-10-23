@@ -1,0 +1,7 @@
+dist/**
+**/*.pyo
+**/__pycache__
+**/build
+**/runner.build/
+**/runner.dist/
+**/runner.onefile-build/

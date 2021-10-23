@@ -1,0 +1,15 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Python: runner.py",
+      "type": "python",
+      "request": "launch",
+      "program": "runner.py",
+      "console": "integratedTerminal",
+      "cwd": "${workspaceFolder}/src",
+      "pythonArgs": [
+      ]
+    }
+  ]
+}
