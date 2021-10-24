@@ -6,3 +6,5 @@ dist/**
 **/runner.dist/
 **/runner.onefile-build/
 **.log
+dataset*
+*.zip
