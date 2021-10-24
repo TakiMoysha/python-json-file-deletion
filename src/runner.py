@@ -9,7 +9,7 @@ from test import division_by_zero
 PATH = os.getcwd()
 
 def _run() -> None:
-    division_by_zero()
+    import model
 
 
 def run() -> None:
